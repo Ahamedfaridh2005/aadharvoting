@@ -122,10 +122,12 @@ user interface and high security.
 
 ## Authors
 
-* **Sanat Taori**
-* **Akshay Motghare**
-* **Mandar Patil** 
-* **Aniket Narkhede**
+* **Ahamed Faridh**
+* **Arsathur Rahman**
+* **Dharun Krishna** 
+* **Anush KUmar**
+* **Barath**
+* **Dinesh Kumar**
 
 ## License
 
